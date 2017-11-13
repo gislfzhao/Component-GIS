@@ -1,2 +1,3 @@
-# Component-GIS-
-I am learning Component GIS course .
+# Component-GIS
+I learned Component GIS course .
+I liked GIS .
